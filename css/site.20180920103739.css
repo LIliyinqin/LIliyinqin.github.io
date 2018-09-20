@@ -40,3 +40,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .cont-3{z-index:1;pointer-events:auto;}
 .img{position:absolute;left:0;width:677px;height:382px;top:0;border:0;}
 .img-2{left:0;width:677px;height:382px;top:0;display:inline-block;}
+.pos-6{position:relative;margin-left:-383px;margin-top:486px;}
+.size-4{min-width:82px;width:82px;min-height:180px;height:180px;}
+.cont-4{pointer-events:auto;}
+.font-2{font-family:"Arial Unicode MS", sans-serif;font-size:89px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:167px;letter-spacing:normal;text-shadow:none;}
